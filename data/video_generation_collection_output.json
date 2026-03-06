@@ -1,0 +1,19 @@
+{
+    "total_outfits_processed": 1,
+    "successful_videos": 1,
+    "failed_videos": 0,
+    "video_results": [
+        {
+            "outfit_id": "Urban Nomad",
+            "input_image_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/outfit_images/outfits/urban_nomad_v1.png",
+            "output_video_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/videos/2026/03/06/b45394bf-d77f-4b43-a3be-9429b2beae5a-366e41c6-fa88-403f-8e6a-850d9e345986_complete_runway_presentation.mp4",
+            "generation_success": true,
+            "generation_time": 162.07536387443542,
+            "error_message": "",
+            "video_duration": 5.0,
+            "video_format": "mp4"
+        }
+    ],
+    "total_processing_time": 162.07536387443542,
+    "output_directory": "videos/"
+}

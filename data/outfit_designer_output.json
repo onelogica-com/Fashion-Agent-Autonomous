@@ -1,0 +1,131 @@
+{
+    "Outfits": [
+        {
+            "outfit_name": "Urban Nomad",
+            "outfit_description": "An oversized streetwear outfit featuring an earthy brown t-shirt with a minimalist graphic and baggy khaki cargo pants. This design focuses on comfort and a relaxed aesthetic, perfectly aligning with the dominant 'Oversized & Relaxed Fits' trend.",
+            "season": "Fall/Winter",
+            "occasion": "Casual",
+            "fashion_metrics": {
+                "Formality": 0.2,
+                "Trendiness": 0.9,
+                "Boldness": 0.4,
+                "Wearability": 1.0
+            },
+            "style_tags": [
+                "Streetwear",
+                "Oversized",
+                "Comfort",
+                "Neutral Tones"
+            ],
+            "dominant_colors": [
+                "Earthy Brown",
+                "Khaki",
+                "Beige"
+            ],
+            "forecasted_popularity": 0.92,
+            "target_market_alignment": "Excellent. The relaxed fit and earthy color palette are highly relevant to the 18-26 age group in India, aligning with global streetwear trends while being culturally appropriate and suitable for the climate.",
+            "trend_incorporation": [
+                "Oversized & Relaxed Fits",
+                "Neutral & Earth Tones",
+                "Sustainable & Ethical Fashion",
+                "Breathable Fabrics",
+                "Oversized & Baggy Silhouette"
+            ],
+            "total_revisions": 0,
+            "revision_history": [],
+            "final_garment_specs": {},
+            "saved_image_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/outfit_images/outfits/urban_nomad_v1.png",
+            "design_success": true,
+            "reflection_insights": [
+                "The design was approved in the first iteration, showing strong alignment with key trends like 'Neutral & Earth Tones' and 'Oversized & Baggy' silhouettes. The choice of breathable, sustainable fabrics was also noted as a key strength for the Indian market."
+            ]
+        },
+        {
+            "outfit_name": "Y2K Flashback",
+            "outfit_description": "A playful and nostalgic Y2K-inspired outfit. It consists of a fitted, hot pink graphic t-shirt with a retro design, paired with a classic A-line denim mini skirt. The look is vibrant, expressive, and directly taps into the 'Y2K Fashion Revival' trend.",
+            "season": "Spring/Summer",
+            "occasion": "Casual, Social",
+            "fashion_metrics": {
+                "Formality": 0.3,
+                "Trendiness": 1.0,
+                "Boldness": 0.8,
+                "Wearability": 0.8
+            },
+            "style_tags": [
+                "Y2K",
+                "Retro",
+                "Vibrant",
+                "Playful"
+            ],
+            "dominant_colors": [
+                "Hot Pink",
+                "Denim Blue"
+            ],
+            "forecasted_popularity": 0.89,
+            "target_market_alignment": "High. This style resonates strongly with the target demographic's interest in nostalgia and bold self-expression. It is well-suited for social occasions in urban Indian settings.",
+            "trend_incorporation": [
+                "Y2K Fashion Revival",
+                "Vibrant Colors",
+                "Graphic Prints",
+                "Mini Skirts Silhouette"
+            ],
+            "total_revisions": 0,
+            "revision_history": [],
+            "final_garment_specs": {},
+            "saved_image_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/outfit_images/outfits/y2k_flashback_v1.png",
+            "design_success": true,
+            "reflection_insights": [
+                "The design was approved immediately, confirming its strong alignment with the 'Y2K Fashion Revival', 'Vibrant Colors', and 'Graphic Prints' trends. The key pieces (graphic tee, mini skirt) were identified as highly commercial for the target Gen Z demographic."
+            ]
+        },
+        {
+            "outfit_name": "Athleisure Zen",
+            "outfit_description": "A chic and minimalist athleisure co-ord set in a monochrome charcoal grey. The outfit features a relaxed-fit hoodie and matching wide-leg joggers, embodying the 'Quiet Luxury' and 'Athleisure' trends with a focus on clean lines and comfort.",
+            "season": "All-Season",
+            "occasion": "Casual, Travel, Lounge",
+            "fashion_metrics": {
+                "Formality": 0.4,
+                "Trendiness": 0.8,
+                "Boldness": 0.3,
+                "Wearability": 0.9
+            },
+            "style_tags": [
+                "Athleisure",
+                "Minimalist",
+                "Quiet Luxury",
+                "Monochrome",
+                "Co-ord Set"
+            ],
+            "dominant_colors": [
+                "Charcoal Grey"
+            ],
+            "forecasted_popularity": 0.85,
+            "target_market_alignment": "Good, with fabric modifications. The style, silhouette, and color are perfect for the target market. However, its commercial success is entirely dependent on using a lightweight, breathable fabric suitable for year-round wear in India, rather than traditional fleece.",
+            "trend_incorporation": [
+                "Athleisure",
+                "Quiet Luxury",
+                "Monochrome",
+                "Sustainable & Ethical Fashion",
+                "Wide-Leg Silhouette",
+                "Breathable Fabrics"
+            ],
+            "total_revisions": 1,
+            "revision_history": [
+                {
+                    "revision_number": 1,
+                    "feedback": "The primary weakness is the fabric, which appears to be a heavy-weight fleece or thick cotton jersey... Re-engineer the set in a lighter, more breathable fabric. The ideal choice would be a high-quality Cotton French Terry.",
+                    "changes_made": [
+                        "Changed fabric from 'Fleece' to 'Cotton French Terry' to improve breathability and suitability for the Indian climate."
+                    ],
+                    "design_confidence": 0.85
+                }
+            ],
+            "final_garment_specs": {},
+            "saved_image_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/outfit_images/outfits/athleisure_zen_v2.png",
+            "design_success": true,
+            "reflection_insights": [
+                "The initial design was flagged for using a fabric (fleece) too heavy for the Indian climate. The design was revised to use a lighter 'Cotton French Terry'. While the second verification still noted climate suitability as a concern, it confirmed the design's aesthetic and trend alignment is exceptionally strong. The key takeaway is the critical importance of using ultra-lightweight, breathable fabrics (like Bamboo-Cotton blends) for the Indian market, even for athleisure wear."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "trend_analysis": {
+        "analysis_date": "2026-03-06",
+        "total_sources_analyzed": 3,
+        "dominant_color_trends": [
+            {
+                "name": "Neutral & Earth Tones",
+                "pantone_code": "16-1334 TPG",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "confidence_score": 0.9,
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://printrove.com/blog/gen-z-fashion-trends/",
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "name": "Monochrome",
+                "pantone_code": "19-4007 TPG",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "confidence_score": 0.8,
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "name": "Vibrant Colors",
+                "pantone_code": "17-1937 TPG",
+                "frequency": 1,
+                "trend_direction": "rising",
+                "confidence_score": 0.7,
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "style_trends": [
+            {
+                "trend_name": "Oversized & Relaxed Fits",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "confidence_score": 0.95,
+                "description": "A dominant trend across all sources, focusing on comfort and a relaxed aesthetic. It includes loose-fitting garments like baggy jeans, oversized t-shirts, and roomy hoodies.",
+                "key_pieces": [
+                    "Oversized T-shirts",
+                    "Baggy Cargos",
+                    "Wide-leg Jeans",
+                    "Roomy Hoodies"
+                ],
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Y2K Fashion Revival",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "confidence_score": 0.9,
+                "description": "A revival of fashion from the early 2000s, characterized by playful and expressive items. This trend is popular among Gen Z for its nostalgic and bold aesthetic.",
+                "key_pieces": [
+                    "Mini Skirts",
+                    "Baguette Bags",
+                    "Graphic Tees",
+                    "Slip Dresses",
+                    "Platform Loafers"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Sustainable & Ethical Fashion",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "confidence_score": 0.85,
+                "description": "A growing movement towards conscious consumption, prioritizing clothes made from eco-friendly materials and produced under ethical conditions.",
+                "key_pieces": [
+                    "Organic Cotton T-shirts",
+                    "Recycled Fabric Jackets",
+                    "Tote Bags"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Athleisure",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "confidence_score": 0.85,
+                "description": "Comfort-focused athletic wear worn as everyday clothing. This trend combines functionality with style, featuring pieces like joggers, leggings, and sports bras.",
+                "key_pieces": [
+                    "Joggers",
+                    "Leggings",
+                    "Sports Bras",
+                    "Sneakers"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Quiet Luxury",
+                "frequency": 1,
+                "trend_direction": "emerging",
+                "confidence_score": 0.8,
+                "description": "An aesthetic focused on high-quality, timeless, and understated pieces in neutral color palettes. It moves away from loud logos towards longevity and refined minimalism.",
+                "key_pieces": [
+                    "Straight-cut Trousers",
+                    "Minimalist Blazers",
+                    "High-Quality Basics"
+                ],
+                "source_urls": [
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "pattern_trends": [
+            {
+                "pattern_name": "Patchwork",
+                "pattern_type": "Abstract",
+                "frequency": 1,
+                "trend_direction": "emerging",
+                "confidence_score": 0.7,
+                "description": "A DIY and sustainability-driven trend, patchwork involves sewing together different pieces of fabric to create a unique, textured look, especially popular in jeans.",
+                "scale": "Medium",
+                "color_combinations": [
+                    "Multi-color",
+                    "Denim Blue"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "print_trends": [
+            {
+                "print_name": "Graphic Prints",
+                "print_category": "Graphic",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "confidence_score": 0.85,
+                "description": "Graphic tees serve as a canvas for self-expression, featuring bold prints, logos, and artistic designs. This trend is a staple in streetwear and Gen Z fashion.",
+                "placement_style": "Center Placement",
+                "color_palette": [
+                    "Vibrant colors",
+                    "Monochrome"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp"
+                ]
+            }
+        ],
+        "material_trends": [
+            {
+                "material": "Breathable Fabrics",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "material": "Sustainable Fabrics (Organic/Recycled)",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "silhouette_trends": [
+            {
+                "silhouette": "Oversized & Baggy",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "silhouette": "Wide-Leg",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "silhouette": "Androgynous/Unisex",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "silhouette": "Mini Skirts",
+                "frequency": 1,
+                "trend_direction": "emerging",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "seasonal_insights": {
+            "fall": [
+                "Oversized & Relaxed Fits",
+                "Quiet Luxury & Timeless Neutrals",
+                "Functional Streetwear (City-Gorpcore)"
+            ],
+            "winter": [
+                "Dominance of Oversized & Baggy Silhouettes",
+                "Layering with Hoodies and Jackets",
+                "Sustainable & Ethical Fashion Choices"
+            ],
+            "spring": [
+                "Y2K Nostalgia (Mini Skirts, Slip Dresses)",
+                "Pastel Tones & Vibrant Colors",
+                "Indo-Western Fusion Wear"
+            ],
+            "summer": [
+                "Athleisure & Breathable Fabrics",
+                "Graphic Tees & Loud Prints",
+                "Co-ord Sets"
+            ]
+        },
+        "predicted_next_season_trends": [
+            "Continued dominance of comfort-first designs and relaxed silhouettes.",
+            "Rise of 'Quiet Luxury' with a focus on timeless, high-quality, and sustainable pieces over fast fashion.",
+            "Increased fusion of traditional Indian elements with modern, Western cuts, especially for social and festive wear.",
+            "Greater emphasis on personalization, DIY fashion, and unique self-expression."
+        ]
+    },
+    "outfit_designs": [
+        {
+            "Outfits": [
+                {
+                    "outfit_name": "Urban Nomad",
+                    "outfit_description": "An oversized streetwear outfit featuring an earthy brown t-shirt with a minimalist graphic and baggy khaki cargo pants. This design focuses on comfort and a relaxed aesthetic, perfectly aligning with the dominant 'Oversized & Relaxed Fits' trend.",
+                    "season": "Fall/Winter",
+                    "occasion": "Casual",
+                    "fashion_metrics": {
+                        "Formality": 0.2,
+                        "Trendiness": 0.9,
+                        "Boldness": 0.4,
+                        "Wearability": 1.0
+                    },
+                    "style_tags": [
+                        "Streetwear",
+                        "Oversized",
+                        "Comfort",
+                        "Neutral Tones"
+                    ],
+                    "dominant_colors": [
+                        "Earthy Brown",
+                        "Khaki",
+                        "Beige"
+                    ],
+                    "forecasted_popularity": 0.92,
+                    "target_market_alignment": "Excellent. The relaxed fit and earthy color palette are highly relevant to the 18-26 age group in India, aligning with global streetwear trends while being culturally appropriate and suitable for the climate.",
+                    "trend_incorporation": [
+                        "Oversized & Relaxed Fits",
+                        "Neutral & Earth Tones",
+                        "Sustainable & Ethical Fashion",
+                        "Breathable Fabrics",
+                        "Oversized & Baggy Silhouette"
+                    ],
+                    "total_revisions": 0,
+                    "revision_history": [],
+                    "final_garment_specs": {},
+                    "saved_image_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/outfit_images/outfits/urban_nomad_v1.png",
+                    "design_success": true,
+                    "reflection_insights": [
+                        "The design was approved in the first iteration, showing strong alignment with key trends like 'Neutral & Earth Tones' and 'Oversized & Baggy' silhouettes. The choice of breathable, sustainable fabrics was also noted as a key strength for the Indian market."
+                    ]
+                },
+                {
+                    "outfit_name": "Y2K Flashback",
+                    "outfit_description": "A playful and nostalgic Y2K-inspired outfit. It consists of a fitted, hot pink graphic t-shirt with a retro design, paired with a classic A-line denim mini skirt. The look is vibrant, expressive, and directly taps into the 'Y2K Fashion Revival' trend.",
+                    "season": "Spring/Summer",
+                    "occasion": "Casual, Social",
+                    "fashion_metrics": {
+                        "Formality": 0.3,
+                        "Trendiness": 1.0,
+                        "Boldness": 0.8,
+                        "Wearability": 0.8
+                    },
+                    "style_tags": [
+                        "Y2K",
+                        "Retro",
+                        "Vibrant",
+                        "Playful"
+                    ],
+                    "dominant_colors": [
+                        "Hot Pink",
+                        "Denim Blue"
+                    ],
+                    "forecasted_popularity": 0.89,
+                    "target_market_alignment": "High. This style resonates strongly with the target demographic's interest in nostalgia and bold self-expression. It is well-suited for social occasions in urban Indian settings.",
+                    "trend_incorporation": [
+                        "Y2K Fashion Revival",
+                        "Vibrant Colors",
+                        "Graphic Prints",
+                        "Mini Skirts Silhouette"
+                    ],
+                    "total_revisions": 0,
+                    "revision_history": [],
+                    "final_garment_specs": {},
+                    "saved_image_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/outfit_images/outfits/y2k_flashback_v1.png",
+                    "design_success": true,
+                    "reflection_insights": [
+                        "The design was approved immediately, confirming its strong alignment with the 'Y2K Fashion Revival', 'Vibrant Colors', and 'Graphic Prints' trends. The key pieces (graphic tee, mini skirt) were identified as highly commercial for the target Gen Z demographic."
+                    ]
+                },
+                {
+                    "outfit_name": "Athleisure Zen",
+                    "outfit_description": "A chic and minimalist athleisure co-ord set in a monochrome charcoal grey. The outfit features a relaxed-fit hoodie and matching wide-leg joggers, embodying the 'Quiet Luxury' and 'Athleisure' trends with a focus on clean lines and comfort.",
+                    "season": "All-Season",
+                    "occasion": "Casual, Travel, Lounge",
+                    "fashion_metrics": {
+                        "Formality": 0.4,
+                        "Trendiness": 0.8,
+                        "Boldness": 0.3,
+                        "Wearability": 0.9
+                    },
+                    "style_tags": [
+                        "Athleisure",
+                        "Minimalist",
+                        "Quiet Luxury",
+                        "Monochrome",
+                        "Co-ord Set"
+                    ],
+                    "dominant_colors": [
+                        "Charcoal Grey"
+                    ],
+                    "forecasted_popularity": 0.85,
+                    "target_market_alignment": "Good, with fabric modifications. The style, silhouette, and color are perfect for the target market. However, its commercial success is entirely dependent on using a lightweight, breathable fabric suitable for year-round wear in India, rather than traditional fleece.",
+                    "trend_incorporation": [
+                        "Athleisure",
+                        "Quiet Luxury",
+                        "Monochrome",
+                        "Sustainable & Ethical Fashion",
+                        "Wide-Leg Silhouette",
+                        "Breathable Fabrics"
+                    ],
+                    "total_revisions": 1,
+                    "revision_history": [
+                        {
+                            "revision_number": 1,
+                            "feedback": "The primary weakness is the fabric, which appears to be a heavy-weight fleece or thick cotton jersey... Re-engineer the set in a lighter, more breathable fabric. The ideal choice would be a high-quality Cotton French Terry.",
+                            "changes_made": [
+                                "Changed fabric from 'Fleece' to 'Cotton French Terry' to improve breathability and suitability for the Indian climate."
+                            ],
+                            "design_confidence": 0.85
+                        }
+                    ],
+                    "final_garment_specs": {},
+                    "saved_image_path": "https://ehugtknzurtsjnkpclgf.supabase.co/storage/v1/object/public/outfit_images/outfits/athleisure_zen_v2.png",
+                    "design_success": true,
+                    "reflection_insights": [
+                        "The initial design was flagged for using a fabric (fleece) too heavy for the Indian climate. The design was revised to use a lighter 'Cotton French Terry'. While the second verification still noted climate suitability as a concern, it confirmed the design's aesthetic and trend alignment is exceptionally strong. The key takeaway is the critical importance of using ultra-lightweight, breathable fabrics (like Bamboo-Cotton blends) for the Indian market, even for athleisure wear."
+                    ]
+                }
+            ]
+        }
+    ]
+}

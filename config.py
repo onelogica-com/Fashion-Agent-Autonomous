@@ -116,7 +116,7 @@ llm = ChatGoogleGenerativeAI(
 
 MCP_SCRAPER_CONFIG = {
     "Fashion News Scraper MCP": {
-        "url": "https://mcpserver.onelogica.com/mcp",
+        "url": "http://localhost:8000/mcp",
         "transport": "streamable_http",
         "timeout": 500.0,
         "sse_read_timeout": 1200  # 2 minutes timeout for scraping operations
@@ -125,7 +125,7 @@ MCP_SCRAPER_CONFIG = {
 
 MCP_IMAGE_CONFIG = {
     "Website Processing MCP": {
-        "url": "https://urlprocesser.onelogica.com/mcp",
+        "url": "http://localhost:8100/mcp",
         "transport": "streamable_http",
         "timeout": 600.0,
         "sse_read_timeout": 1200
@@ -134,7 +134,7 @@ MCP_IMAGE_CONFIG = {
 
 MCP_VIDEO_CONFIG = {
     "Video Processing MCP": {
-        "url": "https://videomcp.onelogica.com/mcp",
+        "url": "https://localhost:8001/mcp",
         "transport": "streamable_http",
         "timeout": 600.0,
         "sse_read_timeout": 1200  # 10 minutes timeout for video processing
@@ -144,7 +144,7 @@ MCP_VIDEO_CONFIG = {
 MCP_OUTFIT_CONFIG = {
     "outfit_server": {
         "transport": "streamable_http",
-        "url": "https://outfitmcp.onelogica.com/mcp",
+        "url": "http://localhost:8002/mcp",
         "timeout": 600.0,  # 10 minutes timeout
         "sse_read_timeout": 1200
     }
@@ -204,8 +204,8 @@ IMAGE_TOOL_PREFERRED_NAMES = [
 ]
 
 TAVILY_TOOL_NAMES = [
-    "tavily-search",   # Web search for AI agents
-    "tavily-extract",  # Extract content from URLs
+    "tavily_search",   # Web search for AI agents
+    "tavily_extract",  # Extract content from URLs
 ]
 
 

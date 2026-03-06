@@ -88,8 +88,24 @@ async def video_generator_node(state: Dict[str, Any], config) -> Dict[str, Any]:
     console_logger.info("Starting Video Generator Agent...")
     
     try:
-        # Get outfit designs from previous step
+        # Get outfit designs from JSON output explicitly as requested
+        # The JSON contains the updated saved_image_path with Supabase URLs
+        outfits_json_path = "data/outfit_designer_output.json"
+        
+        # Default to state if reading fails
         outfit_designs = state.get("outfit_designs", [])
+        
+        try:
+            if os.path.exists(outfits_json_path):
+                file_logger.info(f"Loading outfit designs explicitly from {outfits_json_path}")
+                with open(outfits_json_path, "r", encoding="utf-8") as f:
+                    file_data = json.load(f)
+                    # state format expects a list of design collections
+                    outfit_designs = [file_data]
+            else:
+                file_logger.warning(f"Could not find {outfits_json_path}, falling back to state")
+        except Exception as e:
+            file_logger.error(f"Error reading JSON output: {e}, falling back to state")
         
         if not outfit_designs:
             file_logger.warning("No outfit designs found for video generation")
@@ -151,7 +167,7 @@ async def video_generator_node(state: Dict[str, Any], config) -> Dict[str, Any]:
                         outfit_dict.get('image_path') or
                         outfit_dict.get('output_image_path')
                     )
-                    
+                    print("----------------------------------", outfit_dict)
                     # FIX: Only prepend local path if it's a relative local path (not a URL)
                     if image_path:
                         if image_path.startswith(('http://', 'https://')):

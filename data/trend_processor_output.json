@@ -1,0 +1,253 @@
+{
+    "trend_analysis": {
+        "analysis_date": "2026-03-06",
+        "total_sources_analyzed": 3,
+        "dominant_color_trends": [
+            {
+                "name": "Neutral & Earth Tones",
+                "pantone_code": "16-1334 TPG",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "confidence_score": 0.9,
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://printrove.com/blog/gen-z-fashion-trends/",
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "name": "Monochrome",
+                "pantone_code": "19-4007 TPG",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "confidence_score": 0.8,
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "name": "Vibrant Colors",
+                "pantone_code": "17-1937 TPG",
+                "frequency": 1,
+                "trend_direction": "rising",
+                "confidence_score": 0.7,
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "style_trends": [
+            {
+                "trend_name": "Oversized & Relaxed Fits",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "confidence_score": 0.95,
+                "description": "A dominant trend across all sources, focusing on comfort and a relaxed aesthetic. It includes loose-fitting garments like baggy jeans, oversized t-shirts, and roomy hoodies.",
+                "key_pieces": [
+                    "Oversized T-shirts",
+                    "Baggy Cargos",
+                    "Wide-leg Jeans",
+                    "Roomy Hoodies"
+                ],
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Y2K Fashion Revival",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "confidence_score": 0.9,
+                "description": "A revival of fashion from the early 2000s, characterized by playful and expressive items. This trend is popular among Gen Z for its nostalgic and bold aesthetic.",
+                "key_pieces": [
+                    "Mini Skirts",
+                    "Baguette Bags",
+                    "Graphic Tees",
+                    "Slip Dresses",
+                    "Platform Loafers"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Sustainable & Ethical Fashion",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "confidence_score": 0.85,
+                "description": "A growing movement towards conscious consumption, prioritizing clothes made from eco-friendly materials and produced under ethical conditions.",
+                "key_pieces": [
+                    "Organic Cotton T-shirts",
+                    "Recycled Fabric Jackets",
+                    "Tote Bags"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Athleisure",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "confidence_score": 0.85,
+                "description": "Comfort-focused athletic wear worn as everyday clothing. This trend combines functionality with style, featuring pieces like joggers, leggings, and sports bras.",
+                "key_pieces": [
+                    "Joggers",
+                    "Leggings",
+                    "Sports Bras",
+                    "Sneakers"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "trend_name": "Quiet Luxury",
+                "frequency": 1,
+                "trend_direction": "emerging",
+                "confidence_score": 0.8,
+                "description": "An aesthetic focused on high-quality, timeless, and understated pieces in neutral color palettes. It moves away from loud logos towards longevity and refined minimalism.",
+                "key_pieces": [
+                    "Straight-cut Trousers",
+                    "Minimalist Blazers",
+                    "High-Quality Basics"
+                ],
+                "source_urls": [
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "pattern_trends": [
+            {
+                "pattern_name": "Patchwork",
+                "pattern_type": "Abstract",
+                "frequency": 1,
+                "trend_direction": "emerging",
+                "confidence_score": 0.7,
+                "description": "A DIY and sustainability-driven trend, patchwork involves sewing together different pieces of fabric to create a unique, textured look, especially popular in jeans.",
+                "scale": "Medium",
+                "color_combinations": [
+                    "Multi-color",
+                    "Denim Blue"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "print_trends": [
+            {
+                "print_name": "Graphic Prints",
+                "print_category": "Graphic",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "confidence_score": 0.85,
+                "description": "Graphic tees serve as a canvas for self-expression, featuring bold prints, logos, and artistic designs. This trend is a staple in streetwear and Gen Z fashion.",
+                "placement_style": "Center Placement",
+                "color_palette": [
+                    "Vibrant colors",
+                    "Monochrome"
+                ],
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp"
+                ]
+            }
+        ],
+        "material_trends": [
+            {
+                "material": "Breathable Fabrics",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "material": "Sustainable Fabrics (Organic/Recycled)",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "silhouette_trends": [
+            {
+                "silhouette": "Oversized & Baggy",
+                "frequency": 3,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://noirandlin.com/blogs/news/what-s-hot-in-2025-indian-streetwear-streetwear-trends-you-shouldn-t-ignore?srsltid=AfmBOoqFEzS56sJ2kLrAM1Whzz37qBdZ0a_Ej8omoxyVoyAsunHH53Rp",
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "silhouette": "Wide-Leg",
+                "frequency": 2,
+                "trend_direction": "rising",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "silhouette": "Androgynous/Unisex",
+                "frequency": 2,
+                "trend_direction": "stable",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/",
+                    "https://printrove.com/blog/gen-z-fashion-trends/"
+                ]
+            },
+            {
+                "silhouette": "Mini Skirts",
+                "frequency": 1,
+                "trend_direction": "emerging",
+                "source_urls": [
+                    "https://qikink.com/blog/gen-z-fashion-trends/"
+                ]
+            }
+        ],
+        "seasonal_insights": {
+            "fall": [
+                "Oversized & Relaxed Fits",
+                "Quiet Luxury & Timeless Neutrals",
+                "Functional Streetwear (City-Gorpcore)"
+            ],
+            "winter": [
+                "Dominance of Oversized & Baggy Silhouettes",
+                "Layering with Hoodies and Jackets",
+                "Sustainable & Ethical Fashion Choices"
+            ],
+            "spring": [
+                "Y2K Nostalgia (Mini Skirts, Slip Dresses)",
+                "Pastel Tones & Vibrant Colors",
+                "Indo-Western Fusion Wear"
+            ],
+            "summer": [
+                "Athleisure & Breathable Fabrics",
+                "Graphic Tees & Loud Prints",
+                "Co-ord Sets"
+            ]
+        },
+        "predicted_next_season_trends": [
+            "Continued dominance of comfort-first designs and relaxed silhouettes.",
+            "Rise of 'Quiet Luxury' with a focus on timeless, high-quality, and sustainable pieces over fast fashion.",
+            "Increased fusion of traditional Indian elements with modern, Western cuts, especially for social and festive wear.",
+            "Greater emphasis on personalization, DIY fashion, and unique self-expression."
+        ]
+    },
+    "overall_confidence_score": 0.88,
+    "analysis_summary": "The Indian youth fashion market for the 18-26 age group is dominated by a blend of comfort-driven and expressive styles. The primary trend is the adoption of oversized, baggy, and relaxed silhouettes as the standard for everyday wear, emphasizing comfort and versatility. This coexists with a strong Y2K revival, bringing back vibrant colors, graphic prints, and items like mini skirts and baguette bags. Two major aesthetics are emerging: 'Quiet Luxury,' focusing on timeless, high-quality pieces in neutral and earth-toned palettes, and an expressive maximalism seen in streetwear and Indo-Western fusion. Sustainability and ethical considerations are increasingly important, influencing a shift towards durable, high-quality, and eco-friendly materials. Overall, the market is dynamic, valuing personal expression, comfort, and conscious consumption."
+}

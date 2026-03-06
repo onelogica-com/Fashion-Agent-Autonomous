@@ -11,7 +11,7 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/api': {
-        target: 'https://langgrap.onelogica.com',
+        target: 'http://localhost:2024',
         changeOrigin: true,
       }
     }
